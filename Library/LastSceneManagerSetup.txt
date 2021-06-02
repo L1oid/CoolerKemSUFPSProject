@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/FPS/Scenes/Weapon_Scenes/Handgun/Handgun_01_Model_Showcase/Handgun_01_Model_Showcase.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
